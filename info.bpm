@@ -1,4 +1,5 @@
 [DEFAULT]
-PackageName = TestPackageName
+PackageName = Sussy Niki Wallpapers
 PackageVer = 0.1.0
-BuildDir = /build/0.1.0/
+BuildDir = build/0.1.0/
+BuildFile = brosus.zip
