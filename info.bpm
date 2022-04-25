@@ -1,3 +1,4 @@
 [DEFAULT]
-PackageName = Mehfooz Hacking Tool
-PackageVer = 1.0
+PackageName = TestPackageName
+PackageVer = 0.1.0
+BuildDir = /build/0.1.0/
